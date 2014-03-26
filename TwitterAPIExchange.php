@@ -1,7 +1,7 @@
 <<?php
    global $total, $hashtag;
    //$hashtag = '#supportvisitbogor2011';
-   $hashtag = '#KCA #VotaAM';
+   $hashtag = '#KCA#VotaAM';
    $total = 0;
    function getTweets($hash_tag, $page) {
       global $total, $hashtag;
